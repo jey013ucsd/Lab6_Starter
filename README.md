@@ -1,3 +1,3 @@
 # Lab 6 - Starter
-Jeffrey Yang
-Aarav Vidhawan
+* Jeffrey Yang
+* Aarav Vidhawan
